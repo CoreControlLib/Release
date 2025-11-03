@@ -4,6 +4,6 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.andreidurlea</groupId>
   <artifactId>corecontrol</artifactId>
-  <version>1.0.3-beta</version>
+  <version>1.0.0-closedBeta</version>
   <packaging>aar</packaging>
 </project>
