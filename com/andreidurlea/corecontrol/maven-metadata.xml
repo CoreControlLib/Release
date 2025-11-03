@@ -3,11 +3,12 @@
   <groupId>com.andreidurlea</groupId>
   <artifactId>corecontrol</artifactId>
   <versioning>
-    <latest>1.0.1-beta</latest>
-    <release>1.0.1-beta</release>
+    <latest>1.0.2-beta</latest>
+    <release>1.0.2-beta</release>
     <versions>
       <version>1.0.1-beta</version>
+      <version>1.0.2-beta</version>
     </versions>
-    <lastUpdated>20251103085132</lastUpdated>
+    <lastUpdated>20251103085244</lastUpdated>
   </versioning>
 </metadata>
