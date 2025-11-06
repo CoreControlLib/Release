@@ -35,11 +35,11 @@
         {
           "name": "corecontrol-1.1.0.aar",
           "url": "corecontrol-1.1.0.aar",
-          "size": 131084,
-          "sha512": "0fcdd60cd6e008b09f434a5ef8874d9224aa457712ae69551f5f6aca47288784a1289ca3620a9ac2977e36cbfa08c75062b47c78391dc30d3f7fdebfde9fb4b3",
-          "sha256": "c892e1eefd6a9c3d29aa706ed9525305935b68d0a94e8eaba3f4abf64655c55b",
-          "sha1": "288aa53aea2772db333de71c6bb0629bf6e7d970",
-          "md5": "c0d466de80c7ac5efe4b544118928139"
+          "size": 131140,
+          "sha512": "25bfb5f9bb4b768cf77d0fdb199b7585a908ea8884ca42715e08100b482b5e345031c6d0795bb1dcb06a588b208ee21c60a589e48d86f173647d9e81f26c956d",
+          "sha256": "f7af1732ae28797c8283c2d0877ae65f97c3b4e170d3d658139a6a63ac9a7f08",
+          "sha1": "1d9522ef90a60485a253cae49b27957ab5a18816",
+          "md5": "a8902f4041f03c16c42cc58ec363f1ea"
         }
       ]
     },
@@ -141,11 +141,11 @@
         {
           "name": "corecontrol-1.1.0.aar",
           "url": "corecontrol-1.1.0.aar",
-          "size": 131084,
-          "sha512": "0fcdd60cd6e008b09f434a5ef8874d9224aa457712ae69551f5f6aca47288784a1289ca3620a9ac2977e36cbfa08c75062b47c78391dc30d3f7fdebfde9fb4b3",
-          "sha256": "c892e1eefd6a9c3d29aa706ed9525305935b68d0a94e8eaba3f4abf64655c55b",
-          "sha1": "288aa53aea2772db333de71c6bb0629bf6e7d970",
-          "md5": "c0d466de80c7ac5efe4b544118928139"
+          "size": 131140,
+          "sha512": "25bfb5f9bb4b768cf77d0fdb199b7585a908ea8884ca42715e08100b482b5e345031c6d0795bb1dcb06a588b208ee21c60a589e48d86f173647d9e81f26c956d",
+          "sha256": "f7af1732ae28797c8283c2d0877ae65f97c3b4e170d3d658139a6a63ac9a7f08",
+          "sha1": "1d9522ef90a60485a253cae49b27957ab5a18816",
+          "md5": "a8902f4041f03c16c42cc58ec363f1ea"
         }
       ]
     }
