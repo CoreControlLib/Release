@@ -15,12 +15,12 @@
   },
   "variants": [
     {
-      "name": "releaseApiElements-published",
+      "name": "releaseVariantReleaseApiPublication",
       "attributes": {
         "org.gradle.category": "library",
-        "org.gradle.jvm.environment": "android",
-        "org.gradle.usage": "java-api",
-        "org.jetbrains.kotlin.platform.type": "androidJvm"
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-api"
       },
       "dependencies": [
         {
@@ -35,21 +35,21 @@
         {
           "name": "corecontrol-1.1.0.aar",
           "url": "corecontrol-1.1.0.aar",
-          "size": 130851,
-          "sha512": "ae8f2507afa75049e1c692f034cee81c7d3e3500bc3d5987b176ccaf0c7c76f5ba4afa6562a419e2953e53f79da29a39375fcc284d04490218999bd869d91110",
-          "sha256": "6a3f6d5d7d51339997ff27316e314504e63ad0d6d113196dd277531958d64a83",
-          "sha1": "c626d38d2438c8d40141287f1245673f5f272bae",
-          "md5": "af4a556de9922000152dc0541acd16b9"
+          "size": 131084,
+          "sha512": "0fcdd60cd6e008b09f434a5ef8874d9224aa457712ae69551f5f6aca47288784a1289ca3620a9ac2977e36cbfa08c75062b47c78391dc30d3f7fdebfde9fb4b3",
+          "sha256": "c892e1eefd6a9c3d29aa706ed9525305935b68d0a94e8eaba3f4abf64655c55b",
+          "sha1": "288aa53aea2772db333de71c6bb0629bf6e7d970",
+          "md5": "c0d466de80c7ac5efe4b544118928139"
         }
       ]
     },
     {
-      "name": "releaseRuntimeElements-published",
+      "name": "releaseVariantReleaseRuntimePublication",
       "attributes": {
         "org.gradle.category": "library",
-        "org.gradle.jvm.environment": "android",
-        "org.gradle.usage": "java-runtime",
-        "org.jetbrains.kotlin.platform.type": "androidJvm"
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-runtime"
       },
       "dependencies": [
         {
@@ -141,34 +141,11 @@
         {
           "name": "corecontrol-1.1.0.aar",
           "url": "corecontrol-1.1.0.aar",
-          "size": 130851,
-          "sha512": "ae8f2507afa75049e1c692f034cee81c7d3e3500bc3d5987b176ccaf0c7c76f5ba4afa6562a419e2953e53f79da29a39375fcc284d04490218999bd869d91110",
-          "sha256": "6a3f6d5d7d51339997ff27316e314504e63ad0d6d113196dd277531958d64a83",
-          "sha1": "c626d38d2438c8d40141287f1245673f5f272bae",
-          "md5": "af4a556de9922000152dc0541acd16b9"
-        }
-      ]
-    },
-    {
-      "name": "releaseSourcesElements-published",
-      "attributes": {
-        "org.gradle.category": "documentation",
-        "org.gradle.dependency.bundling": "external",
-        "org.gradle.docstype": "sources",
-        "org.gradle.jvm.environment": "android",
-        "org.gradle.libraryelements": "jar",
-        "org.gradle.usage": "java-runtime",
-        "org.jetbrains.kotlin.platform.type": "androidJvm"
-      },
-      "files": [
-        {
-          "name": "corecontrol-1.1.0-sources.jar",
-          "url": "corecontrol-1.1.0-sources.jar",
-          "size": 95739,
-          "sha512": "2959a7ef721ffdeb80634b03c1dfdee6fedcf80ca9ae7168d994a159aeb49abc3cd5bef7b81c6b2bf89e56494079d89b6203f87ee6f0242a65a5ea6f8dc85fc3",
-          "sha256": "15777375957e84e0e976dfdcacd4c4a5717384ff67877a4eaa878721a992a29a",
-          "sha1": "b0f8b2e5d909e6077c6e60932047b5c79226a108",
-          "md5": "27ae648e3dd1eee3b865d3bd82d87909"
+          "size": 131084,
+          "sha512": "0fcdd60cd6e008b09f434a5ef8874d9224aa457712ae69551f5f6aca47288784a1289ca3620a9ac2977e36cbfa08c75062b47c78391dc30d3f7fdebfde9fb4b3",
+          "sha256": "c892e1eefd6a9c3d29aa706ed9525305935b68d0a94e8eaba3f4abf64655c55b",
+          "sha1": "288aa53aea2772db333de71c6bb0629bf6e7d970",
+          "md5": "c0d466de80c7ac5efe4b544118928139"
         }
       ]
     }
