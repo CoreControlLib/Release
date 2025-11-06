@@ -9,7 +9,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.andreidurlea</groupId>
   <artifactId>corecontrol</artifactId>
-  <version>1.1.0-beta</version>
+  <version>1.1.0</version>
   <packaging>aar</packaging>
   <dependencies>
     <dependency>
